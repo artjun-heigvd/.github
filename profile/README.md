@@ -1,5 +1,5 @@
 # Repo des labos HEIG-VD
-Voila différents contenant les labos que j'ai pu récupéré parmis tous ceux que j'ai fait durant l'HEIG-VD
+Voila différents repos contenant les labos que j'ai pu récupéré parmis tous ceux que j'ai fait durant l'HEIG-VD
 ### S1 2023-2024
 #### [BDR](https://github.com/artjun-heigvd/BDR)
 #### [DAI](https://github.com/artjun-heigvd/DAI)
